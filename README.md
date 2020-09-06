@@ -5,4 +5,4 @@ Front page:
 ![image of front page](https://github.com/zhenyiplusone/2019-Summer-Project-Nation-Sim/blob/master/Examples/1.PNG?raw=true)
 
 Simulator itself:
-!image of sim](https://github.com/zhenyiplusone/2019-Summer-Project-Nation-Sim/blob/master/Examples/2.PNG?raw=true)
+![image of sim](https://github.com/zhenyiplusone/2019-Summer-Project-Nation-Sim/blob/master/Examples/2.PNG?raw=true)
