@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
